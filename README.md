@@ -1,4 +1,4 @@
-# Realtime Face Movement Tracking ![](https://bit.ly/surya-veer-movement-tracking)
+# Realtime Face Movement Tracking !
 90 Lines of code to convert your face movement into keyboard commands.
 
 # Description
@@ -23,7 +23,6 @@ This is the list of dependencies for running this application. Use pip to instal
 1. Download or clone this repository.
 2. Extract to some location.
 3. First, run **```movement-v1.py```** (for fix boundary) or run **```movement-v2.py```**(for dynamic movement) <br>
-  NOTE: If you are getting 215 assertion failed!! on line 81 check this (https://github.com/surya-veer/movement-tracking/issues/4#issuecomment-664018021)
 
 4. open any online atari game like Subway surfers or temple run.
 5. Start doing movements to play game. It will press up-down-left-right based on your movements.
